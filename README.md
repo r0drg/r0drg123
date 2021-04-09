@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @r0drg
 - 👀 I’m interested in learning how to code, from the start, and reach beyond...
-- 🌱 I’m currently learning logic and C/C++
-- 📫 How to reach me through my email or twitter @digo_io
+- 🌱 I’m currently learning logic and C
+- 📫 How to reach me: through my twitter @digo_io
